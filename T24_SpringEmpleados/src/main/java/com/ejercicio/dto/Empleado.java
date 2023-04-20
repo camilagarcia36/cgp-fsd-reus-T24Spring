@@ -81,7 +81,7 @@ public class Empleado {
 		case "ingeniero":
 			salario = 1800.00;
 			break;
-		case "cajero":
+		case "streamer":
 			salario = 1000.00;
 			break;
 		}
